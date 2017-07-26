@@ -1,0 +1,271 @@
+*{
+	margin-top: -10px;
+	padding: 0px;
+}
+.css4{
+	background: -webkit-linear-gradient(orange,
+		white,green);-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;"
+	text-align: center;
+	font-size: 20px;
+	margin-top: 0PX;
+}
+.css3{
+	background: -webkit-linear-gradient(orange,
+	white,green);-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;"
+	text-align: center;
+	font-size: 20px;
+	margin-top: 19PX;
+}
+.content {
+	background: linear-gradient(180deg,   
+	 rgba(255,177,8,0.9) 0%, rgba(252,255,255,0.95) 28%, 
+	 rgba(252,255,255,0.97) 50%, rgba(252,255,255,0.98) 73%, 
+	 rgba(4,143,27,1) 100%);
+	margin: 0px 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: -2px;
+	border-radius: 1px;
+	background: linear-gradient(180deg, #FFB108 0%, 
+		#fcffff 28%, #FCFFFF 50%, #FCFFFF 73%, #048F1B 100%); 
+	box-shadow: 0 0 5px 5px white inset;
+	z-index: -1
+}
+.tent{
+	margin-top: -30px;
+	background: linear-gradient(180deg,   
+	 rgba(255,177,8,0.9) 0%, rgba(252,255,255,0.95) 28%, 
+	 rgba(252,255,255,0.97) 50%, rgba(252,255,255,0.98) 73%, 
+	 rgba(4,143,27,1) 100%);
+	background: linear-gradient(180deg, #FFB108 0%, 
+		#fcffff 28%, #FCFFFF 50%, #FCFFFF 73%, #048F1B 100%); 
+	box-shadow: 0 0 5px 5px white inset;
+}
+.foot{
+	color: purple;
+	vertical-align:top
+	padding-top: 20px;
+	padding-bottom: 5px;
+	background: linear-gradient(180deg,   
+	 rgba(255,177,8,0.9) 0%, rgba(252,255,255,0.95) 28%, 
+	 rgba(252,255,255,0.97) 50%, rgba(252,255,255,0.98) 73%, 
+	 rgba(4,143,27,1) 100%);
+	background: linear-gradient(180deg, #FFB108 0%, 
+		#fcffff 28%, #FCFFFF 50%, #FCFFFF 73%, #048F1B 100%); 
+	box-shadow: 0 0 5px 5px white inset;
+}
+.content1 {
+	margin: 1px 10px;
+	padding: 5px;
+	border-radius: 5px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: rgb(102,155,230);
+	box-shadow: 0 0 5px 5px white inset;	
+	z-index: -1
+	/*position: relative;*/
+}
+#footer{
+	margin: 1px 10px;
+	padding: 5px;
+	border-radius: 5px;
+	padding-top: 21px;
+	padding-bottom: 10px;
+	background-color: rgb(102,155,230);
+	box-shadow: 0 0 5px 5px white inset;	
+	z-index: -1
+}
+.newCon{
+    margin: 1px 10px;
+	padding: 5px;
+	border-radius: 5px;
+	padding-top: 35px;
+	padding-bottom: 10px;
+	background-color: rgb(102,155,230);
+	box-shadow: 0 0 5px 5px white inset;
+}
+.content2{
+	width: 85%;
+	height: 30px;
+	margin-left: 30px;
+	margin-top: 15px;
+	background-image: url(SBI-images/back1.png);
+	background-repeat-y: no-repeat;
+	text-align: center;
+}
+.content3{
+	margin-left: 40px;
+	padding-top: -5px;
+	padding-bottom: -5px;
+	width: 80%;
+	height: 37px;
+	background-image: url(SBI-images/back.png);
+	background-repeat-y: no-repeat;
+}
+.footer{
+	background: linear-gradient(0deg, rgba(0,120,0,1) 0%, 
+		rgba(250,252,255,1) 43%, rgba(250,252,255,1) 48%, 
+		rgba(250,252,255,1) 55%, rgba(255,206,43,1) 100%);
+	box-shadow: 0 0 5px 5px white inset;
+	margin-top: -25px;
+	padding: 1px;
+	padding-top: .5px;
+	text-align: center;
+	border-radius: 5px;	
+}
+.font{
+	color: purple;
+	font-style: oblique;
+	text-align: center;
+	padding: 9px;
+}
+.us{
+	margin-left: 10px;
+	margin-right: 10px;
+	background: linear-gradient(143deg,
+	 rgba(153,218,255,1) 0%, rgba(246,246,255,1) 99%, 
+	 rgba(247,247,255,1) 100%);
+	font-style: oblique;
+	text-align: center;
+}
+.con{
+	margin-top: -5px;
+	margin: 5px 5px;
+	padding-bottom: 15px 
+	border: 1px;
+	background: linear-gradient(143deg,
+	 rgba(153,218,255,1) 0%, rgba(246,246,255,1) 99%, 
+	 rgba(247,247,255,1) 100%);
+	font-style: oblique;
+	text-align: center;
+}
+.con1{
+	border: 1px;
+	margin-top: -20px;
+	/*padding-bottom: 0.1px;*/
+	margin-left: 10px;
+	margin-right: 10px;
+	background: linear-gradient(143deg,
+	 rgba(153,218,255,1) 0%, rgba(246,246,255,1) 99%, 
+	 rgba(247,247,255,1) 100%);
+	font-style: oblique;
+	text-align: center;
+}
+.position {
+
+	    /*margin-left: 30%;*/
+	    /*margin-left:50px;*/
+   /* position: absolute;
+    top:30%;*/
+    margin-top: -20px;
+    z-index: 1;
+    margin-bottom: -20px;
+    width: 200px;
+    height: 200px;
+    /*max-width:100%;*/
+    /*right: 10%;*/
+    /*margin-left: 550px;
+    position: absolute;
+    top: 224px;
+    right: 550px;*/
+}
+#btn{
+	background-image: url(SBI-images/back.png);
+	margin: 0px auto;
+	width: 75px;
+	height: 39px;
+	color: purple;
+}
+table, td {
+    border: 1px solid black;
+}
+
+/*table {
+	margin: 10px 5px;
+	background: linear-gradient(143deg,
+	 rgba(153,218,255,1) 0%, rgba(246,246,255,1) 99%, 
+	 rgba(247,247,255,1) 100%);
+    border-collapse: collapse;
+    width:100%;
+}*/
+.td {
+    height: 30px;
+    vertical-align: top;
+    width: 100px;
+}
+.td1 {
+	height: 80px;
+	vertical-align: top;
+}
+.td2 {
+	height: 40px;
+	vertical-align: top;
+}
+/*#table {
+	margin-left: 0px;
+	margin-right: 30px;
+	background: linear-gradient(143deg, 
+		rgba(153,218,255,1) 0%, rgba(246,246,255,1)
+		99%, rgba(247,247,255,1) 100%);
+    border-collapse: collapse;
+    width:100%;
+	}*/
+#td {
+    height: 90px;
+    vertical-align: top;
+    width: 35%;
+}
+#td1 {
+	height: 170px;
+	vertical-align: top;
+}
+#td2 {
+	height: 20px;
+	vertical-align: top;
+}
+.top{
+	vertical-align: top;
+}
+.tr {
+    height: 95px;
+    vertical-align: top;
+    width: 100px;
+}
+.tr1 {
+	height: 100px;
+	vertical-align: top;
+}
+.tr2 {
+	height: 90px;
+	vertical-align: top;
+}
+.myDIV, #table {
+    width: 95%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 1px;
+    border-collapse: collapse;
+    background: lightblue;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+    box-shadow: 0 0 5px white inset;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {background-color: lightblue;}
+    to {background-color: white;}
+}
+/* Standard syntax */
+@keyframes mymove {
+    from {background-color: white;}
+    to {background-color: blue;}
+}
+#scrolldown, #condition {
+padding: 5px;text-align:center; background-color: lightblue; border: solid 1px #c3c3c3;
+}
+.scrolldown{
+	padding: 200px;
+	display: none;
+}
